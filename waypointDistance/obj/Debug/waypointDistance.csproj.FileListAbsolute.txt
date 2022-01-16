@@ -1,0 +1,7 @@
+C:\Users\mess\Documents\SharpDevelop Projects\waypointDistance\waypointDistance\obj\Debug\waypointDistance.csprojResolveAssemblyReference.cache
+C:\Users\mess\Documents\SharpDevelop Projects\waypointDistance\waypointDistance\bin\Debug\waypointDistance.exe
+C:\Users\mess\Documents\SharpDevelop Projects\waypointDistance\waypointDistance\bin\Debug\waypointDistance.pdb
+C:\Users\mess\Documents\SharpDevelop Projects\waypointDistance\waypointDistance\obj\Debug\waypointDistance.exe
+C:\Users\mess\Documents\SharpDevelop Projects\waypointDistance\waypointDistance\obj\Debug\waypointDistance.pdb
+C:\Users\mess\Documents\SharpDevelop Projects\WaypointDistance\WaypointDistance\obj\Debug\WaypointDistance.MainForm.resources
+C:\Users\mess\Documents\SharpDevelop Projects\WaypointDistance\WaypointDistance\obj\Debug\WaypointDistance.csproj.GenerateResource.Cache

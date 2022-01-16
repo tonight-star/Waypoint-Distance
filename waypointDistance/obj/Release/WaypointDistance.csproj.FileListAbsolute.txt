@@ -1,0 +1,5 @@
+C:\Users\mess\Documents\SharpDevelop Projects\WaypointDistance\WaypointDistance\bin\Release\WaypointDistance.exe
+C:\Users\mess\Documents\SharpDevelop Projects\WaypointDistance\WaypointDistance\obj\Release\WaypointDistance.csprojResolveAssemblyReference.cache
+C:\Users\mess\Documents\SharpDevelop Projects\WaypointDistance\WaypointDistance\obj\Release\WaypointDistance.MainForm.resources
+C:\Users\mess\Documents\SharpDevelop Projects\WaypointDistance\WaypointDistance\obj\Release\WaypointDistance.csproj.GenerateResource.Cache
+C:\Users\mess\Documents\SharpDevelop Projects\WaypointDistance\WaypointDistance\obj\Release\WaypointDistance.exe
